@@ -1,0 +1,35 @@
+
+body{
+margin:0;
+padding:0;
+background-color: rgb(119, 212, 212);
+padding:600px;
+padding-top: 10px;
+
+}
+
+table{
+border-color: rgb(178, 196, 151);
+
+font-family: "Arial", cursive, sans-serif;
+padding-bottom:40px;
+padding: 8px 20px;   
+
+
+}
+th{
+
+font-size:25px;
+
+}
+
+
+
+h2{
+    text-align: left;
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+    }
+
+
